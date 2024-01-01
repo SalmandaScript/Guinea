@@ -124,6 +124,16 @@ color: "teal"
 });
 });
 
+//previous page 
+function ghana(){
+open("https://salmandascript.github.io/Ghana/Ghana.html");
+}
+
+//next page 
+function guineaBissau(){
+open("https://salmandascript.github.io/GuineaBissau/GuineaBissau.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
